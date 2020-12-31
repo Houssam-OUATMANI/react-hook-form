@@ -32,7 +32,6 @@ export default function Formulaire(){
             {errors.message && <code>A message is required</code>}
             <button type="submit" class="btn btn-primary mb-2">Send</button>
         </div>
-        
     </form>  
     </section> 
     )
